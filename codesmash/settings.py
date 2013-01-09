@@ -3,6 +3,10 @@
 import os
 
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+<<<<<<< HEAD
+=======
+
+>>>>>>> Ex 1: A Static Home Page
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
